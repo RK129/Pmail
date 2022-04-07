@@ -8,7 +8,7 @@ Sending and receiving emails using python.
 
 **Receiving**
 
->Lists 10 newest emails you have recieved with the email's sender, receiver, and subject<br>
->Asks you which email you want to open using the email's subject
+>Lists 10 newest emails you have recieved with the email's sender, receiver, and subject.<br>
+>Asks you which email you want to open using the email's subject.
 
 
