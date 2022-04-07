@@ -19,3 +19,8 @@ Sending and receiving emails using python.
 >Can make custom abbreviations using `.replace()`.<br>
 
 
+**Coming soon**
+
+>Being abe to send line breaks and new lines that can be rendered and displayed on all email platforms(gmail, outlook, etc.)
+
+
