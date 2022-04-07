@@ -21,6 +21,6 @@ Sending and receiving emails using python.
 
 **Coming soon**
 
->Being abe to send line breaks and new lines that can be rendered and displayed on all email platforms(gmail, outlook, etc.)
+>Being abe to send line breaks and new lines that can be rendered and displayed on all email platforms(gmail, outlook, etc.). Currently only option is to put two spaces and will only be rendered on this program using the formatter
 
 
