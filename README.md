@@ -15,8 +15,8 @@ Sending and receiving emails using python.
 
 **Formatter**
 
->Custom formatter replaces double spaces as a new line.<br>
->Can make custom abbreviations using `.replace()`.<br>
+>Custom formatter replaces double spaces as a new line. For **Receiving**<br>
+>Renders abbreviations using  `.replace()`. For **Sending and Receiving**<br>
 
 
 **Coming soon**
