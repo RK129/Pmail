@@ -1,6 +1,6 @@
 # Emailing
 Sending and receiving emails using python. 
-Finest UI optimization python can offer(not much😔)
+<br>Finest UI optimization python can offer(not much😔)
 
 
 **Sending**
