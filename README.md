@@ -1,12 +1,18 @@
 # Emailing
 Sending and receiving emails using python. 
-<br>Finest UI optimization python can offer(not much😔)
+<br>Finest UI optimization python and tkinter can offer(not much😔)
+
 
 
 **Sending**<br>
 * Sends email with subject and body.<br>
 * Will send abbreviations that can be custom made using `.replace()` in the formatter. <br>
 * > Example: "OMW" is sent as "on my way"
+
+**tkinter**
+
+* graphical interface to send emails. Graphical version of **sending**<br>
+* Does not support the formatter or encoder and can't send line breaks, however can send new lines<br>
 
 **Receiving**
 <br>
