@@ -5,13 +5,14 @@ Sending and receiving emails using python.
 
 **Sending**
 >Can send email with subject and body.<br>
->Putting double spaces will be rendered as a new line. However, this only works using this emailing program and will not be rendered using gmail, outlook, or other emailing programs.<br>
+>Will send abbreviations that can be custom made using `.replace()` in the formatter. <br>
+>Example: "OMW" is sent as "on my way"
 
 **Receiving**
 
 >Lists 10 newest emails you have recieved with the email's sender, receiver, and subject. Number of emails displayed can be changed<br>
 >Asks you which email you want to open using the email's subject.<br>
->Once opened, it will display the email using utf-8 encoder and custom formatter
+>Once opened, it will display the email using utf-8 encoder and custom formatter.
 
 **Formatter**
 
