@@ -9,7 +9,7 @@ smtp_object.starttls()
 
 # email = input("Email:")
 # password = getpass.getpass("Password: ")
-print("Hello \033[1m radin.msft@gmail.com  \033[0m")
+print("Hello \033[1m YOUR_EMAIL  \033[0m")
 for i in range(2):
     print(" ")
 email = ("YOUR_EMAIL")
