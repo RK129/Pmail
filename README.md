@@ -21,14 +21,5 @@ Sending and receiving emails using python.
 * Asks you which email you want to open using the email's subject(email you can open is not limited to the listed emails, list is just a suggestion).<br>
 * Once opened, it will display the email using utf-8 encoder and custom formatter.
 
-**Formatter**
-
-* Replaces double spaces with a new line. 
-* Renders abbreviations using  `.replace()`. 
-
-
-**Coming soon**
-
-* Being abe to send line breaks and new lines that can be rendered and displayed on all email platforms(gmail, outlook, etc.). Currently only option is to put two spaces and will only be rendered on this program using the formatter
 
 
